@@ -1,6 +1,6 @@
 {
   "name": "universeconfig",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "get ALL the configs!",
   "main": "index.js",
   "scripts": {
